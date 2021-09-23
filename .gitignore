@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/tools/.store/dotnet-reportgenerator-globaltool/4.8.12
+/tools
